@@ -6,8 +6,9 @@ This project is a simple UI implementation of a download button with progress ba
 
 ## Demo
 
-![Download Button Demo](demo.gif)
+![Download Button](demo.gif)
 
+To view a live demo of this project, click [here](https://download-button-zeta.vercel.app/)
 
 # Installation
 

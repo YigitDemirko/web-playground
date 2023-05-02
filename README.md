@@ -17,7 +17,7 @@ Here are some of the projects included in Web Playground:
 
 | Project | Description |
 |---------|-------------|
-| [Download Butoon](/download-button) | A download button with progress bar animation. |
+| [Download Button](/download-button) | A download button with progress bar animation. |
 
 Each project directory contains a `README.md` file that explains the purpose of the project and any additional instructions or notes.
 
